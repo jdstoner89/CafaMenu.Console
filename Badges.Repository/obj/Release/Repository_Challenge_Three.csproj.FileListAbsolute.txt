@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DoNetProjects\Challenge_Three_Badges\Badges.Repository\bin\Release\Repository_Challenge_Three.dll
+C:\ElevenFiftyProjects\DoNetProjects\Challenge_Three_Badges\Badges.Repository\bin\Release\Repository_Challenge_Three.pdb
+C:\ElevenFiftyProjects\DoNetProjects\Challenge_Three_Badges\Badges.Repository\obj\Release\Repository_Challenge_Three.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DoNetProjects\Challenge_Three_Badges\Badges.Repository\obj\Release\Repository_Challenge_Three.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DoNetProjects\Challenge_Three_Badges\Badges.Repository\obj\Release\Repository_Challenge_Three.dll
+C:\ElevenFiftyProjects\DoNetProjects\Challenge_Three_Badges\Badges.Repository\obj\Release\Repository_Challenge_Three.pdb

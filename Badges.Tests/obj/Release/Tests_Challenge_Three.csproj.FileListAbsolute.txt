@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\DoNetProjects\Challenge_Three_Badges\Badges.Tests\obj\Release\Tests_Challenge_Three.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DoNetProjects\Challenge_Three_Badges\Badges.Tests\obj\Release\Tests_Challenge_Three.csproj.CoreCompileInputs.cache
