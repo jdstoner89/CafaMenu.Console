@@ -15,12 +15,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeFour_Repository", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_Four_Console", "..\Gold_Badge_Challenge_Four\Challenge_Four_Console\Challenge_Four_Console.csproj", "{0D8C8C77-D175-42EA-9CC1-6D5E39EE25C4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge_One_Console", "..\..\..\Users\Jordan\source\repos\jdstoner89\CafaMenu.Console\CafaMenu.Console\Challenge_One_Console.csproj", "{F578907A-5C0E-46EA-A135-688C188F4A8C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_One_Repository", "..\..\..\Users\Jordan\source\repos\jdstoner89\CafaMenu.Console\CafeMenu.Repository\Challenge_One_Repository.csproj", "{CE8B5139-05FD-42A6-9BF8-7ECF44B73FD6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_One_Tests", "..\..\..\Users\Jordan\source\repos\jdstoner89\CafaMenu.Console\CafeMenu.Tests\Challenge_One_Tests.csproj", "{93701C44-DFEE-4236-AE87-941FB1A59C14}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,18 +45,6 @@ Global
 		{0D8C8C77-D175-42EA-9CC1-6D5E39EE25C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D8C8C77-D175-42EA-9CC1-6D5E39EE25C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D8C8C77-D175-42EA-9CC1-6D5E39EE25C4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F578907A-5C0E-46EA-A135-688C188F4A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F578907A-5C0E-46EA-A135-688C188F4A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F578907A-5C0E-46EA-A135-688C188F4A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F578907A-5C0E-46EA-A135-688C188F4A8C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CE8B5139-05FD-42A6-9BF8-7ECF44B73FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CE8B5139-05FD-42A6-9BF8-7ECF44B73FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CE8B5139-05FD-42A6-9BF8-7ECF44B73FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CE8B5139-05FD-42A6-9BF8-7ECF44B73FD6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{93701C44-DFEE-4236-AE87-941FB1A59C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{93701C44-DFEE-4236-AE87-941FB1A59C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{93701C44-DFEE-4236-AE87-941FB1A59C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{93701C44-DFEE-4236-AE87-941FB1A59C14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
