@@ -3,12 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge_Three_Console", "Badges.Console\Challenge_Three_Console.csproj", "{810F1B38-B4B0-425C-8218-DFF404586417}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository_Challenge_Three", "Badges.Repository\Repository_Challenge_Three.csproj", "{AD9AED9F-6E44-4153-B9EB-8A95C8237D54}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests_Challenge_Three", "Badges.Tests\Tests_Challenge_Three.csproj", "{183D4BA2-74AA-4637-9CAC-C2C2E415F531}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeFour_UnitTests", "..\Gold_Badge_Challenge_Four\ChallengeFour_UnitTests\ChallengeFour_UnitTests.csproj", "{848CE18C-6682-48CD-B49F-FA872330F980}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeFour_Repository", "..\Gold_Badge_Challenge_Four\ChallengeFour_Repository\ChallengeFour_Repository.csproj", "{1524380D-8A89-4405-B441-BD9B48F5292D}"
@@ -21,18 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{810F1B38-B4B0-425C-8218-DFF404586417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{810F1B38-B4B0-425C-8218-DFF404586417}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{810F1B38-B4B0-425C-8218-DFF404586417}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{810F1B38-B4B0-425C-8218-DFF404586417}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AD9AED9F-6E44-4153-B9EB-8A95C8237D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AD9AED9F-6E44-4153-B9EB-8A95C8237D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AD9AED9F-6E44-4153-B9EB-8A95C8237D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AD9AED9F-6E44-4153-B9EB-8A95C8237D54}.Release|Any CPU.Build.0 = Release|Any CPU
-		{183D4BA2-74AA-4637-9CAC-C2C2E415F531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{183D4BA2-74AA-4637-9CAC-C2C2E415F531}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{183D4BA2-74AA-4637-9CAC-C2C2E415F531}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{183D4BA2-74AA-4637-9CAC-C2C2E415F531}.Release|Any CPU.Build.0 = Release|Any CPU
 		{848CE18C-6682-48CD-B49F-FA872330F980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{848CE18C-6682-48CD-B49F-FA872330F980}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{848CE18C-6682-48CD-B49F-FA872330F980}.Release|Any CPU.ActiveCfg = Release|Any CPU
